@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <br />
-### About Me 🚀EnTC Engineer and Int
+### About Me 🚀
+<br />
 🎓EnTC Engineer 2021.
 <br />
 - 🌱 I’m currently learning **Web Dev, DevOps.**
