@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/@kraman92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kraman92" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aman-kumar-068902186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-kumar-068902186/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/amank784" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/amank784" height="30" width="40" /></a>
+<a href="https://fb.com/amank784" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amank784" height="30" width="40" /></a>
 <a href="https://instagram.com/kr_aman92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kr_aman92" height="30" width="40" /></a>
 </p>
 
