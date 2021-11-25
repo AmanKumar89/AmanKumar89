@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AmanKumar89](https://github.com/AmanKumar89)
+- 👨‍💻 All of my projects are available at [https://github.com/amankumar89](https://github.com/AmanKumar89)
 
 - 📫 How to reach me **amankumaroo784@gmail.com**
 
