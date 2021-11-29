@@ -2,7 +2,7 @@
 <br />
 ### About Me 🚀
 <br />
-🎓EnTC Engineer 2021.
+- 🎓EnTC Engineer 2021.
 <br />
 - 🌱 I’m currently learning **Web Dev, DevOps.**
 
