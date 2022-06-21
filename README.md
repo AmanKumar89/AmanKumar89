@@ -4,7 +4,7 @@
 <br />
 - 🎓EnTC Engineer 2021.
 <br />
-- 🌱 I’m currently learning **Web Dev, DevOps.**
+- 🌱 I’m currently learning ** Full Stack Web Development **
 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 
