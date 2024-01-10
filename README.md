@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Aman Kumar</h1>
+<h1 align="center">Hi 👋, I'm Software Engineer</h1>
 <br />
-### About Me 🚀
+###  About Me 🚀
 <br />
-- 🎓EnTC Engineer 2021.
+- 🎓E&TC Engineer 2021.
 <br />
 - 🌱 I’m currently learning ** Full Stack Web Development **
 
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/amankumar89](https://github.com/AmanKumar89)
 
-- 📫 How to reach me **amankumaroo784@gmail.com**
+- 📫 How to reach me **amank2070@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
