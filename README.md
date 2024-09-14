@@ -1,89 +1,33 @@
-<h1 align="center">Hi 👋, I'm Software Engineer</h1>
-<br />
-###  About Me 🚀
-<br />
-- 🎓E&TC Engineer 2021.
-<br />
-- 🌱 I’m currently learning ** Full Stack Web Development **
+# Hi there! 👋
 
-- 👯 I’m looking to collaborate on **Open Source Projects.**
+## I’m Aman Kumar
 
-- 👨‍💻 All of my projects are available at [https://github.com/amankumar89](https://github.com/AmanKumar89)
+I'm an Associate Software Engineer with a passion for building web applications and user interfaces. My journey in the tech world began with a 6-month internship, and I’m excited to share that I’ve been working full-time since March 20, 2023.
 
-- 📫 How to reach me **amank2070@gmail.com**
+### 💼 Experience
+- **Current Role:** Associate Software Engineer
+- **Duration:** Full-time since March 20, 2023 (initially joined as an intern)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🛠️ Technologies & Tools
+I specialize in modern web development with a focus on:
+- **Frontend Technologies:** Next.js, React.js
+- **Backend Technologies:** Express.js, Node.js
+- **Database:** MongoDB, MySQL
+- **Languages:** TypeScript, JavaScript, Java, C++ Basics.
+- **Styling:** Ant Design (antd), Tailwind CSS, Styled Components
 
-<h3 align="left">Languages and Tools:</h3>
+### 🌱 Currently Learning
+- Expanding my knowledge in 'frontend + backend with devops'
 
-<p align="left">
+<!--
+### 📈 Projects
+Feel free to explore some of my projects and contributions:
+- [Project 1](#) - Brief description
+- [Project 2](#) - Brief description
+-->
+### 🤝 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/aman-kumar-068902186/) - Let's connect and discuss technology!
+<!-- - [Twitter](#) - Follow me for tech updates and insights -->
 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-      width="40" height="40" />
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" />
-  </a>
-  
-  <a href="https://www.cplusplus.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-      alt="C++ Programming" width="40" height="40" />
-  </a>
-  
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /alt="C-Programming" width="40" height="40">
-  </a>
-
-  ### Front-End
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" />
-  </a>
-  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3" width="40" height="40" />
-  </a>
-  
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" />
-  </a>
-
-  ### Database Management Systems
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" />
-  </a>
-  
-  ### Operating Systems
-  
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-      width="40" height="40" />
-  </a>
-  
-  <a href="">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows os" width="40" height="40"/>
-  </a>
-  
-  ### Others
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  
-  <a href="https://code.visualstudio.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vs-code" width="40" height="40" />
-  </a>
-  
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amankumar89&show_icons=true&locale=en" alt="amankumar89" /></p>
+### 🛠️ Open Source
+I’m also passionate about contributing to open source. If you have a project that could use some help or collaboration, don’t hesitate to reach out!
